@@ -3,7 +3,7 @@
 
 ---
 
-## SECTION 1: THE 3 MEGA-PROMPTS FOR FULL MARKET & STRATEGY ANALYSIS
+## SECTION 1: PROMPT 1 - 3 # THE 3 MEGA-PROMPTS FOR FULL MARKET & STRATEGY ANALYSIS
 
 ### MEGA-PROMPT #1: AI-Powered Business Diagnostic & Audit
 **Use Case**: Run a PhD-level business audit across all operational dimensions
@@ -358,7 +358,7 @@ FINAL DELIVERABLES:
 
 ---
 
-## SECTION 2: 10 CONSULTING-GRADE PROMPTS FOR SWOT, GTM, ROADMAPS & DIAGNOSTICS
+## SECTION 2: PROMPT 4 - 20 # 10 CONSULTING-GRADE PROMPTS FOR SWOT, GTM, ROADMAPS & DIAGNOSTICS
 
 ### PROMPT #4: Comprehensive SWOT Analysis with Strategic Implications
 **Use Case**: Industry-standard SWOT that drives strategic recommendations
@@ -1455,152 +1455,6 @@ Improvement Scenario (18-month horizon):
 
 ```
 
----------------------------------------------------------------------------------------
-
-## SECTION 3: MCKINSEY FRAMEWORKS TOOLKIT
-
-### Framework 1: The McKinsey 7S Framework (Organizational Audit)
-- Structure, Strategy, Systems, Shared Values, Style, Staff, Skills
-- Use: Diagnose organizational misalignments, assess readiness for change
-- When to use: Annual health check, pre-transformation, M&A integration
-
-### Framework 2: Porter's Five Forces (Industry Analysis)
-- Threat of New Entrants, Bargaining Power of Suppliers/Buyers, Threat of Substitutes, Competitive Rivalry
-- Use: Understand industry attractiveness, competitive positioning
-- When to use: Market entry, competitive strategy, business planning
-
-### Framework 3: Three Horizons of Growth (Innovation Management)
-- Horizon 1 (Defend Core), Horizon 2 (Build Adjacent), Horizon 3 (Breakthrough)
-- Use: Balance innovation portfolio, manage growth pipeline
-- When to use: Strategic planning, investment allocation, transformation roadmaps
-
-### Framework 4: SWOT Analysis (Strategic Assessment)
-- Strengths, Weaknesses, Opportunities, Threats
-- Use: Holistic business assessment, strategy development
-- When to use: Annual planning, competitive benchmarking, strategic pivots
-
-### Framework 5: Business Model Canvas (Strategy Visualization)
-- 9 elements: Customer Segments, Value Propositions, Channels, Customer Relationships, Revenue Streams, Key Resources, Key Activities, Key Partnerships, Cost Structure
-- Use: Visualize business model, identify opportunities for reinvention
-- When to use: New business development, business model innovation
-
-### Framework 6: MECE Principle (Structured Thinking)
-- Mutually Exclusive, Collectively Exhaustive
-- Use: Break complex problems into logic trees, avoid overlaps and gaps
-- When to use: Problem-solving, issue analysis, presentation structure
-
-### Framework 7: Pyramid Principle (Communication)
-- Top-down narrative: Main idea → Supporting ideas → Detailed evidence
-- Use: Structure clear, compelling business arguments
-- When to use: Executive presentations, written reports, stakeholder communication
-
-### Framework 8: Ansoff Matrix (Growth Strategy)
-- Market Penetration, Market Development, Product Development, Diversification
-- Use: Identify growth vectors and risk profile of each strategy
-- When to use: Growth planning, market expansion decisions
-
-### Framework 9: Value Chain Analysis (Operational Efficiency)
-- Primary Activities (inbound logistics, operations, outbound, marketing, service) + Support (infrastructure, HR, tech, procurement)
-- Use: Identify efficiency opportunities, competitive advantage drivers
-- When to use: Operations improvement, cost reduction, value prop development
-
-### Framework 10: McKinsey QuantumBlack AI Framework (AI Opportunity Assessment)
-- 11 business functions mapped to AI opportunities
-- Use: Systematically identify high-ROI AI use cases
-- When to use: AI strategy development, use case prioritization
-
----
-
-## SECTION 4: PROMPT ENGINEERING BEST PRACTICES FOR CONSULTING
-
-### Best Practice #1: The SCQA Situation-Complication-Question-Answer
-- **Situation**: Facts your audience agrees with (context)
-- **Complication**: What's changed or what's the challenge?
-- **Question**: What's the key question we need to answer?
-- **Answer**: Our recommendation/insight
-- Use in: Executive summaries, problem statements, recommendations
-
-### Best Practice #2: Hypothesis-Driven Thinking
-- Start with a hypothesis about the answer
-- Use it to guide analysis (vs. fishing expeditions)
-- Prove or disprove through data
-- Iterate: If wrong, move to next hypothesis
-- Use in: All problem-solving, analysis prioritization
-
-### Best Practice #3: Fact-Based Reasoning
-- All conclusions backed by data, examples, or precedent
-- Avoid opinion; use evidence
-- Quantify impact when possible
-- Benchmark externally (vs. competitors, industry)
-- Use in: Recommendations, business cases, strategy
-
-### Best Practice #4: MECE Communication
-- Each idea is distinct (no overlap)
-- All ideas together cover the full picture (no gaps)
-- Balanced (similar weight/importance)
-- Use in: Lists, frameworks, organization of ideas
-
-### Best Practice #5: The Issue Tree (Logic Tree)
-- Root problem/question at top
-- Break into 2-3 major branches
-- Sub-branches as needed
-- Build MECE branches at each level
-- Use in: Problem diagnosis, analysis roadmaps
-
-### Best Practice #6: Pre-wiring & Stakeholder Alignment
-- Socialize recommendations before formal presentation
-- Get buy-in from key stakeholders early
-- Adjust recommendations based on feedback
-- No surprises in final presentation
-- Use in: Change management, executive alignment
-
-### Best Practice #7: Insights vs. Data
-- Insights = what the data MEANS (interpretation, implication)
-- Data = raw numbers, facts
-- Lead with insights; use data to support
-- Insights are your value-add (not just reporting data)
-- Use in: All communication, dashboards, reports
-
----
-
-## SECTION 5: QUICK-START GUIDE
-
-### How to Use This Vault:
-
-1. **Start with Diagnostic**: Use MEGA-PROMPT #1 to audit your business
-2. **Understand Competitive Position**: Use MEGA-PROMPT #2 for competitive analysis
-3. **Develop Strategy**: Use MEGA-PROMPT #3 to create your 3-year roadmap
-4. **Drill into Details**: Pick specific PROMPTS (#4-10) relevant to your challenge
-5. **Apply Frameworks**: Use the toolkit frameworks to structure your thinking
-6. **Communicate**: Apply best practices to present recommendations
-
-### Common Use Cases → Recommended Prompts:
-
-| Challenge | Recommended Prompts |
-|-----------|---|
-| **Struggling with strategy?** | Mega-Prompt #1 (Diagnostic), #2 (Competition), #3 (Roadmap) |
-| **Need to improve operations?** | Prompt #7 (Bottleneck Analysis) |
-| **Building new product/market?** | Prompt #5 (GTM), Prompt #6 (AI Opportunities) |
-| **Losing deals to competitors?** | Prompt #8 (Win/Loss) |
-| **Launching AI transformation?** | Mega-Prompt #3, Prompt #6 (AI Opportunities) |
-| **Need organizational alignment?** | Prompt #1 (Diagnostic), Prompt #4 (SWOT) |
-| **Considering new markets?** | Mega-Prompt #2 (Competition), Prompt #5 (GTM) |
-
----
-
-## APPENDIX: GLOSSARY OF KEY TERMS
-
-- **AI Transformation**: Systematic embedding of AI capabilities across an organization
-- **Business Case**: Quantified financial analysis of investment and expected returns
-- **Competitive Positioning**: How your company is perceived relative to competitors on key dimensions
-- **GTM (Go-to-Market)**: Strategy for bringing a product/service to market and acquiring customers
-- **McKinsey 7S**: Organizational framework covering Strategy, Structure, Systems, Shared Values, Style, Staff, Skills
-- **MECE**: Mutually Exclusive, Collectively Exhaustive principle for structured thinking
-- **Pyramid Principle**: Top-down communication approach where main idea comes first
-- **Roadmap**: Sequenced plan with timelines, milestones, and resource allocation
-- **SWOT**: Strategic assessment of Strengths, Weaknesses, Opportunities, Threats
-- **Use Case**: Specific, quantified opportunity for applying AI/technology to a business problem
-- **Value Proposition**: Unique benefit(s) your product/service delivers vs. alternatives
 
 ---
 
