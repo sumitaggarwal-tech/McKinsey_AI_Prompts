@@ -51,3 +51,18 @@
 
 ---
 
+
+## APPENDIX: GLOSSARY OF KEY TERMS
+
+- **AI Transformation**: Systematic embedding of AI capabilities across an organization
+- **Business Case**: Quantified financial analysis of investment and expected returns
+- **Competitive Positioning**: How your company is perceived relative to competitors on key dimensions
+- **GTM (Go-to-Market)**: Strategy for bringing a product/service to market and acquiring customers
+- **McKinsey 7S**: Organizational framework covering Strategy, Structure, Systems, Shared Values, Style, Staff, Skills
+- **MECE**: Mutually Exclusive, Collectively Exhaustive principle for structured thinking
+- **Pyramid Principle**: Top-down communication approach where main idea comes first
+- **Roadmap**: Sequenced plan with timelines, milestones, and resource allocation
+- **SWOT**: Strategic assessment of Strengths, Weaknesses, Opportunities, Threats
+- **Use Case**: Specific, quantified opportunity for applying AI/technology to a business problem
+- **Value Proposition**: Unique benefit(s) your product/service delivers vs. alternatives
+
