@@ -1,5 +1,5 @@
 # McKinsey AI Prompt & Framework Vault
-## Prompts #9–#20: Advanced Enterprise-Grade Consulting Prompts
+## Prompts #9–#13: Advanced Enterprise-Grade Consulting Prompts
 
 ---
 
